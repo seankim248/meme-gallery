@@ -1,2 +1,2 @@
 # meme-gallery
-An interactive HTML, CSS, and JavaScript ap
+An interactive HTML, CSS, and JavaScript app
